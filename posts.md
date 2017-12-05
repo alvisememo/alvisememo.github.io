@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Posts
+addToFooter: yes
 ---
 
 This is a collection of posts written for reference or to help anyone intrested:
