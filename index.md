@@ -3,7 +3,7 @@ layout: page
 ---
 
 ### Hi there!
-I’m Alvise Memo, I was born 13 February 1991 near Venice, in Italy.
+I’m Alvise Memo, I was born near Venice, in Italy.
 I’ve grown up with passion for mechanics and engineering.
 While I was young I experimented on motorcycles to build 
 something new and different and that lead me to informatics.
@@ -19,13 +19,9 @@ let me know!
 
 
 ### Going deeper:
-* [Curriculum Vitae](assets/AlviseMemo_CV.pdf)
 * [Publications](https://scholar.google.com/citations?user=gTVBw7UAAAAJ)
-* [LinkedIn](https://www.linkedin.com/in/alvise-memo-01797a90/en)
+* [LinkedIn](https://www.linkedin.com/in/alvise-m/)
 * [Github](https://github.com/alvisememo)
-
-### ![Image](https://graph.facebook.com/1500433537/picture?type=large)
-
 
 ### My posts:
 This is a collection of posts written for reference or to help anyone intrested:
